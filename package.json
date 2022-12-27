@@ -1,0 +1,27 @@
+{
+  "name": "auth_with_testing_and_documentaion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogesh2019/auth_with_testing_and_documentaion.git"
+  },
+  "keywords": [],
+  "author": "yogesh2019",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogesh2019/auth_with_testing_and_documentaion/issues"
+  },
+  "homepage": "https://github.com/yogesh2019/auth_with_testing_and_documentaion#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "node": "^19.3.0",
+    "swagger-jsdoc": "^6.2.7",
+    "swagger-ui-express": "^4.6.0"
+  }
+}
